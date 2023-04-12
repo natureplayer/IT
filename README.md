@@ -1,3 +1,2 @@
 # IT
-data for IT
-create for ph.D exams
+Be created for Ph.D exams.
